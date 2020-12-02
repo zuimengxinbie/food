@@ -1,0 +1,14 @@
+.m-img-box-a{
+    width: 7.50rem;
+}
+.m-img-box-a img{
+    width: 100%;
+}
+a{
+    display: block;
+    width: 2.0rem;
+    height: 1.0rem;
+    text-align: center;
+    line-height: 1.0rem;
+    margin: 0 auto;
+}
